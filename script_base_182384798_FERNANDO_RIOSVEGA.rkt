@@ -1,5 +1,6 @@
 #lang racket
 
+#Se importan los archivos .rkt individualmente debido a que utilizando (require "main_182384798_FERNANDO_RIOSVEGA.rkt") el programa no corre.
 (require "tda_jugador_182384798_FERNANDO_RIOSVEGA.rkt")
 (require "tda_propiedad_182384798_FERNANDO_RIOSVEGA.rkt")
 (require "tda_tablero_182384798_FERNANDO_RIOSVEGA.rkt")
